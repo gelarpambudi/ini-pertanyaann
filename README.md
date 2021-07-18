@@ -1,4 +1,4 @@
-# Ini pertanyaann
+# Ini pertanyaan
 
 Diberi suatu fungsi
 ```
