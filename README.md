@@ -1,6 +1,6 @@
 # Level 5
 
-Diberi suatu fungsi
+Ada suatu fungsi kaya gini
 ```
 def riddle(x,y):
     while (y != 0) :
@@ -14,6 +14,6 @@ def riddle(x,y):
         else:
             x = x+x 
 ```
-Berapa hasil penjumlahan dua output paling terakhir yang ditampilkan oleh fungsi riddle(1,15) ?
+Berapa hasil penjumlahan dua output paling terakhir yang ditampilkan fungsi riddle(1,15) ?
 
 
