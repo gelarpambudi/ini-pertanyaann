@@ -2,7 +2,7 @@
 
 Ada suatu fungsi kaya gini
 ```
-def riddle(x,y):
+function riddle(x,y):
     while (y != 0) :
         if ((x+y) % y != 0):
             print(y)
